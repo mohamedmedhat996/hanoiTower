@@ -35,3 +35,5 @@ int main(){
   Hanoi(discs, 'A', 'B', 'C');
   cout << "It took " << moves << " moves. " << endl;
 }
+
+//end
